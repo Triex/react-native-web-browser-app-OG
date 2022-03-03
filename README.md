@@ -9,7 +9,9 @@ An open-source, extensible cross-platform (mobile and desktop) web browser made 
 Set up for use as base for `TBA`
 ## Notes
 - 
-
+```
+💩
+```
 
 ## Installation etc (not working yet, need to update react bits)
 Globally install react-native-cli, expo if not done already
