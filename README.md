@@ -1,4 +1,5 @@
 # [Project Moved Here 🚀](https://github.com/Triex/react-native-web-browser-app)
+(No longer updating in this repo)
 
 # React Native Web Browser App
 
@@ -7,12 +8,7 @@ An open-source, extensible cross-platform (mobile and desktop) web browser made 
 # T Notes
 Set up for use as base for `TBA`
 ## Notes
-- Updated some versions and bits, still not enough
-- Need to look at [react-dom](https://github.com/facebook/react/tree/main/packages/react-dom) updates or changelog/commit history to find when it was removed and what the old version was + use that, or update to the new way.
-
-```
-💩
-```
+- 
 
 
 ## Installation etc (not working yet, need to update react bits)
